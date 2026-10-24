@@ -1,4 +1,6 @@
-# Week 1 plan (English first). Draft v1
+# Week 1 plan (English first). Draft v2
+
+NOTE: the smartwatch and rice pudding reels are ALREADY POSTED. Do not repost them. The scripts below for Reel 2 and Reel 3 are rewrites to learn from, or to refilm in a few weeks with the better hook.
 
 Positioning: **Stop starting over.** Easier plan, 80/20 nutrition, weekly check-ins.
 Offer facts (from butkuscoaching.lt): 8-week program 59 EUR one-time; full coaching 144 EUR/month; early access, 3 spots; Cert III and IV in Fitness (Australia).
@@ -11,15 +13,14 @@ One CTA across everything: comment **START**. Nothing posts itself; you shoot an
   Training + nutrition + weekly check-ins.
   3 early-access spots 👇
 - Link: one link, an English application or waitlist page (not yet built, so use butkuscoaching.lt until it is)
-- Pin: (1) 80/20 reel, (2) client-story reel, (3) Hyrox post
+- Pin: (1) 80/20 reel, (2) the already-posted smartwatch client reel, (3) Hyrox post
 - Highlights: Start here / How it works / Results / Life
 
 ## Schedule
 | Day | Post |
 | Mon | Reel 1: 80/20 |
 | Wed | Carousel 1: Stop starting over |
-| Thu | Reel 2: client and the smartwatch |
-| Sat | Reel 3: rice pudding |
+| Fri/Sat | New short useful reel (new recipe or new client story). Reuse the lessons from Reel 2/3 |
 | Sun | Carousel 2: lifestyle / mindset |
 | Daily | Stories: daily life, travel, training. One story a week says "comment START" |
 
