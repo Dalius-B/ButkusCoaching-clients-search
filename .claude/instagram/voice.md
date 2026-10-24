@@ -5,7 +5,7 @@
 - **Name:** Dalius Butkus
 - **Handle:** @dalius_butkus
 - **What I do, in one sentence:** Fitness coach who builds my own training, nutrition and progress-tracking system, and helps people stop starting over.
-- **Who I am talking to:** People who start training or eating well, then drop it (the "stop starting over" crowd). Lithuanian speakers now, English speakers later. TO CONFIRM: age, gender, level.
+- **Who I am talking to:** Beginners, and people who trained before but could not stay consistent and keep stopping and restarting. They also struggle with nutrition. Gender does not matter, probably more men. English first, Lithuanian second. TO CONFIRM: age range.
 - **What I sell:** Online coaching: programme, nutrition, weekly check-ins, filmed exercise library, progress tracking, support. Lithuanian site: butkuscoaching.lt. English version not ready yet. Currently "founding clients", not a long list of paying clients.
 
 ## What I sound like
@@ -13,11 +13,11 @@
 - **On camera I am:** calm, warm, practical. Teaches by doing, one step at a time. No hype, no shouting.
 - **Words I actually use:** "genuinely", "just", "simple", "that's it", "whatever you want", "tastes like dessert", "feels freeing"
 - **Words I would never say out loud:** TO CONFIRM
-- **Do I swear:** TO CONFIRM (the reels so far are clean)
+- **Do I swear:** Allowed, but not natural for me. Mild and rare only (one well-placed word, not a habit).
 - **Emoji in captions:** TO CONFIRM
 - **Face on camera:** sometimes (talking head, gym POV, food shots, scenery)
 - **Voiceover or to-camera:** both
-- **Languages:** Lithuanian and English. Pick one per reel, do not mix.
+- **Languages:** English first, Lithuanian second. Pick one per reel, do not mix.
 - **Pace:** TO CONFIRM (time yourself reading a script, then `beats.py --wpm`)
 
 ### Patterns seen in the three reels
@@ -49,6 +49,6 @@
 
 ## The ask
 
-- **My keyword CTA, if I use one:** TO CONFIRM (suggestion: one word like "START" for the waitlist or programme)
+- **My keyword CTA, if I use one:** Yes, comfortable using one. Suggestion: START
 - **What the keyword sends them:** TO CONFIRM
 - **Where my link goes:** butkuscoaching.lt (Lithuanian). Recommend an English waitlist link.
