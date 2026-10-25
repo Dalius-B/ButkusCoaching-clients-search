@@ -8,13 +8,13 @@ Handle small bottom corner on every slide: @dalius_butkus. Number slides (2/9 ..
 6 4. THE LONG DAY / Nothing to eat after work? No Uber Eats. Open the fridge. The meal is waiting.
 7 5. THERE IS NO NUMBER 5. / Meal prep is that simple. (alt: 5. YOU STOP STARTING OVER EVERY MONDAY)
 8 RECAP (screenshot slide): Meal prep, short version. 1 Less chaos 2 Less junk 3 Less stress 4 Long day, covered. Start with 3 meals.
-9 CTA: Save this for Sunday. Comment START for my plan.
+9 CTA: Comment START for my plan.
 Alt text (cover): White text on a dark background: 5 reasons to meal prep. It's not about abs.
 Caption:
-Meal prep isn't about abs. It's about making the healthy choice the closest one.
+5 reasons I meal prep, and none are abs. It's about making the healthy choice the closest one.
 
-When you're tired and hungry, you grab whatever is nearest. A prepared container makes that the right food, even on a stressful day.
+When you're tired and hungry, you grab whatever is nearest. A prepared container makes that the right food, even on a stressful day, and it makes healthy eating easier to keep up.
 
-Save this for your next Sunday prep. Comment START and I'll show you how I plan my week.
+Comment START and I'll show you how I plan my week.
 
 #mealprep #consistency #fitnesscoach
